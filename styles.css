@@ -1,0 +1,78 @@
+h1{
+
+    font-size: 70px;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: gray;
+    text-align: center;
+    
+}
+
+h2{
+
+    font-size: 40px;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: gray;
+    text-align: center;
+    
+}
+
+/* 3) How do I select for children of specific elements? */
+ul {
+
+    text-align: center; 
+    list-style: none; 
+    padding-left: 0;
+    width: 50%;
+    margin: auto;
+}
+
+/* buttons before
+
+ul>li {
+    
+    border: 1px outset;
+    width: 50ex;
+    padding: 0%;
+}
+
+#claude {
+    border: 1px outset;
+    float: right;
+
+}
+
+#pierre {
+    float: left;
+}
+
+*/
+
+.pls {
+
+    width: 10em;
+    display: inline;
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    display: inline-block;
+    width: 30%;
+
+}
+
+#flag {
+    margin: auto;
+
+}
+
+#map {
+    margin: auto;
+}
+
+#icons {
+    margin: auto;
+}
+
+
+
